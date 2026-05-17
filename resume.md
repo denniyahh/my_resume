@@ -24,27 +24,36 @@ Product builder and team lead with 15+ years shipping data platforms, trading in
 
 ## Core Expertise
 
-Product execution and launch leadership · Multi-stakeholder program orchestration · AI/ML productization · Market data and trading platforms · Cloud and distributed systems (AWS) · API platform strategy · Enterprise platform modernization · Regulatory-grade systems · Agile-at-scale implementations · Quant research and engineering integration
+AI-agent-assisted product development · Spec-to-code workflows · Data platform productization · Regulated production systems
 
 ---
 
 ## Professional Experience
 
 ### [MarketAxess](https://www.marketaxess.com/) — New York, NY  
-**Product Manager / Product Owner and Scrum Master — Quant Engineering and Fixed Income Calculations**  
-*Jul 2017 – Present*
+
+**Product Manager / Scrum Master** — Quant Engineering &amp; Fixed Income Calculations  
+*Jun 2021 – Present*
 
 - More than doubled the data business from $25MM to $55MM+ through AI/ML data product development and commercial expansion.
 - Built, scaled, and operationalized two global product and engineering organizations responsible for AI/ML pricing and liquidity predictions, transaction cost analysis (TCA), and fixed income calculation systems—repeatedly taking products from concept through regulated production.
 - Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing over a third of total data revenues.
-- Led execution and commercial launch of multiple industry-first, revenue-generating platforms:
-  - **Tradability** — real-time fixed income RFQ liquidity prediction
-  - **TRACE Context REST API** — MarketAxess's first AWS-native commercial product
-- Founded the firm’s first cloud-native product organization, providing the execution blueprint that accelerated enterprise-wide AWS adoption, data lake strategy, and API-first platform standards.
+- Led commercial launch of **Tradability** — real-time fixed income RFQ liquidity prediction.
 - Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from 95% to 99.9% for critical market segments — and surpassing targets in newer markets. Replaced legacy rule engines with ISIN-level functional calculation libraries engineered for extensibility, auditability, and regulatory control.
 - Executed multi-vendor calculation platform integrations (Fincad, Refinitiv), materially expanding analytic coverage into strategic emerging-market local-currency debt.
-- Led the company’s first global Agile transformation, converting a 20+ member distributed quant and engineering organization from waterfall into high-throughput Scrum delivery.
 - Accountable for production outcomes on platforms supporting billions in daily trading volume, enforcing sub-second latency, regulatory uptime guarantees, and institutional SLAs.
+
+**Product Owner / Scrum Master** — Quant Engineering  
+*Aug 2019 – May 2021*
+
+- Led the company’s first global Agile transformation, converting a 20+ member distributed quant and engineering organization from waterfall into high-throughput Scrum delivery.
+- Launched **TRACE Context REST API** — MarketAxess's first AWS-native commercial product.
+- Founded the firm’s first cloud-native product organization, providing the execution blueprint that accelerated enterprise-wide AWS adoption, data lake strategy, and API-first platform standards.
+
+**Business Analyst** — Data Science Research  
+*Jul 2017 – Jul 2019*
+
+- Led the transition of CP+ from research project to product launch — laying the groundwork for what would become MarketAxess's largest data product.
 
 ---
 
