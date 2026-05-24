@@ -2,7 +2,7 @@
 title: "Dennis Kim — AI-enabled Product Builder &amp; Development Team Lead"
 author: "Dennis Kim"
 geometry: margin=1in
-fontsize: 10pt
+fontsize: 11pt
 mainfont: Source Sans 3
 monofont: Source Code Pro
 linkcolor: darkgray

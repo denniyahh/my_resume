@@ -165,7 +165,7 @@ fi
 #  - mainfont: use a well-supported font (Source Sans 3), but you can override via env or template
 #  - Disable TeX ligature substitutions that can sometimes confuse text extraction
 #  - Explicit UTF-8 input assumption
-pandoc "$PDF_INPUT"   -o "${OUT_DIR}/${BASENAME}.pdf"   --pdf-engine="$PDF_ENGINE"   --standalone   "${TEMPLATE_ARGS[@]}"   --metadata=title:"Dennis Kim — Resume"   --variable mainfont="Source Sans 3"   --variable mainfontoptions="Ligatures=NoCommon"   --variable fontsize=10pt
+pandoc "$PDF_INPUT"   -o "${OUT_DIR}/${BASENAME}.pdf"   --pdf-engine="$PDF_ENGINE"   --standalone   "${TEMPLATE_ARGS[@]}"   --metadata=title:"Dennis Kim — Resume"   --variable mainfont="Source Sans 3"   --variable mainfontoptions="Ligatures=NoCommon"   --variable fontsize=11pt
 
 # Cleanup temp file unless KEEP_TMP=1
 if [[ -n "${TMP_MD}" && "$KEEP_TMP" != "1" ]]; then
