@@ -2,31 +2,25 @@
 title: "Dennis Kim — AI-enabled Product Builder &amp; Development Team Lead"
 author: "Dennis Kim"
 geometry: margin=1in
-fontsize: 11pt
-mainfont: Inter
-monofont: Liberation Mono
-linkcolor: blue
+fontsize: 10pt
+mainfont: Source Sans 3
+monofont: Source Code Pro
+linkcolor: darkgray
+disable-header-and-footer: true
 ---
-
 # Dennis Kim
 **AI-enabled Product Builder &amp; Development Team Lead**
 
 Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855  
 [LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh) · [Blog](https://dennis.kim)
 
----
-
 ## Executive Profile
 
 Product builder and team lead with 15+ years shipping data platforms, trading infrastructure, and AI/ML-powered financial systems into regulated production. Combines deep domain expertise in fixed income markets with modern AI agent workflows — accelerating spec authoring, code generation, data analysis, and task automation across product and engineering teams. Track record of turning complex products into revenue: grew data business from $25MM to $55MM+, scaled CP+ to the firm's largest data product, and closed critical quality gaps from 95% to 99.9%.
 
----
-
 ## Core Expertise
 
 AI-agent-assisted product development · Spec-to-code workflows · Data platform productization · Regulated production systems
-
----
 
 ## Professional Experience
 
@@ -54,8 +48,6 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 
 - Led the transition of CP+ from research project to product launch — laying the groundwork for what would become MarketAxess's largest data product.
 
----
-
 ### [Tradeweb Markets](https://www.tradeweb.com/) — New York, NY  
 **Vice President, Business Analysis / Product Lead — Retail and Enterprise Trading Platforms**  
 *Mar 2015 – Jun 2017*
@@ -65,8 +57,6 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 - Architected and shipped a compliance platform for the Department of Labor Fiduciary Rule, coordinating delivery across legal, compliance, engineering, and client advisory organizations under active regulatory scrutiny.
 - Served as primary product owner for a 10+ person agile delivery team operating under tight client and regulatory dependencies.
 
----
-
 ### Interactive Data (now [ICE Data Services](https://www.ice.com/fixed-income-data-services)) — New York, NY  
 **Product Management Business Analyst — Evaluated Pricing Platforms**  
 *Jan 2011 – Jan 2014*
@@ -75,28 +65,20 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 - Designed and shipped industry-first analytical visualization systems, including Box Plot Market Data Graph, Price Validation Workflow, and FINRA Structured Trading Aggregate Reports (precursor to TRACE Structured Data Feed).
 - Won “Best Information Display” (2013 and 2014, *Systems in the City*).
 
----
-
 ### Thomson Reuters (now [LSEG Data and Analytics](https://www.lseg.com/en/data-analytics)) — New York, NY  
 **Market Data Analyst — Global Ticker Plant and Elektron Platform Migration**  
 *Mar 2008 – Dec 2010*
 
 - Lead analyst on the global migration from legacy Thomson ticker plants to Reuters Elektron — defining business rules for institutional feeds (NYSE Euronext, LSE Millennium) and coordinating delivery across US, London, and Bangalore teams under strict uptime and data quality constraints.
 
----
-
 ### Earlier Experience
 
 **Proprietary Equity Trader — [Trillium Trading, LLC](https://www.trlm.com/)** (2005–2007)  
 Licensed market maker. Intraday momentum and technical trading strategies.
 
----
-
 ## Education
 
 **The University of Chicago** — B.A. Economics
-
----
 
 ## Technical Skills
 
@@ -106,5 +88,3 @@ Licensed market maker. Intraday momentum and technical trading strategies.
 - **Platforms & infrastructure:** AWS, APIs, data lakes, distributed systems
 - **Product & delivery:** Scrum, Kanban, SAFe
 - **ML systems:** Predictive modeling, real-time inference pipelines
-
----
