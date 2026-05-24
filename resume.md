@@ -46,7 +46,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 **Product Owner / Scrum Master** — Quant Engineering  
 *Aug 2019 – May 2021*
 
-- Led the company’s first global Agile transformation, converting a 20+ member distributed quant and engineering organization from waterfall into high-throughput Scrum delivery.
+- Led MarketAxess's first pilot Agile team, whose results drove firm-wide adoption of the methodology.
 - Launched **TRACE Context REST API** — MarketAxess's first AWS-native commercial product.
 - Founded the firm’s first cloud-native product organization, providing the execution blueprint that accelerated enterprise-wide AWS adoption, data lake strategy, and API-first platform standards.
 
@@ -83,9 +83,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 **Market Data Analyst — Global Ticker Plant and Elektron Platform Migration**  
 *Mar 2008 – Dec 2010*
 
-- Lead analyst on enterprise project to sunset legacy Thomson Financial ticker plants and migrate global market data products to Reuters Elektron.
-- Authored business rules for next-generation institutional feeds, including NYSE Euronext and LSE Millennium.
-- Orchestrated delivery across US, London, and Bangalore product and engineering teams under strict uptime and data quality constraints.
+- Lead analyst on the global migration from legacy Thomson ticker plants to Reuters Elektron — defining business rules for institutional feeds (NYSE Euronext, LSE Millennium) and coordinating delivery across US, London, and Bangalore teams under strict uptime and data quality constraints.
 
 ---
 
@@ -96,17 +94,6 @@ Licensed market maker (Series 7, 66, 55). Intraday momentum and technical tradin
 
 **Product Management Associate — BuyandHold.com** (2000–2001)  
 Early fintech startup PM; launched real-time trading, IRAs, and portfolio tools.
-
----
-
-## Selected Products
-
-- [CP+ Real-time AI/ML Fixed Income Pricing Engine](https://www.marketaxess.com/price/cp-plus)
-- Tradability Liquidity Score
-- TRACE Context REST API
-- Global Transaction Cost Analysis (TCA) Suite
-- [Portfolio Solutions](https://cdn.tradeweb.com/sites/retail-portfolio-solutions/index.html) Municipal Bond Portfolio Management Platform
-- [Vantage](https://vantage.interactivedata.com/) Evaluated Fixed Income Pricing Transparency Platform
 
 ---
 
