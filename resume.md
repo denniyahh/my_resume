@@ -38,17 +38,16 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 - More than doubled the data business from $25MM to $55MM+ through AI/ML data product development and commercial expansion.
 - Built, scaled, and operationalized two global product and engineering organizations responsible for AI/ML pricing and liquidity predictions, transaction cost analysis (TCA), and fixed income calculation systems—repeatedly taking products from concept through regulated production.
 - Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing over a third of total data revenues.
-- Led commercial launch of **Tradability** — real-time fixed income RFQ liquidity prediction.
 - Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from 95% to 99.9% for critical market segments — and surpassing targets in newer markets. Replaced legacy rule engines with ISIN-level functional calculation libraries engineered for extensibility, auditability, and regulatory control.
-- Executed multi-vendor calculation platform integrations (Fincad, Refinitiv), materially expanding analytic coverage into strategic emerging-market local-currency debt.
-- Accountable for production outcomes on platforms supporting billions in daily trading volume, enforcing sub-second latency, regulatory uptime guarantees, and institutional SLAs.
+- AI-assisted development: built a modern web platform replacing a basic React interface for internal calculation tooling — with saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data sources for failure investigation. Slashed team busy work and extended the platform toward an external customer version targeting Bloomberg's YAS screen.
+- AI-assisted development: built a CLI tool for automating mass Jira creation via CSV/YAML config and Atlassian REST + MCP APIs — reducing hours of manual entry during PI Planning to seconds. Built it for personal use first, then adapted it for company-wide use with reusable team-specific and firm-specific YAML templates. Planning to open source.
 
 **Product Owner / Scrum Master** — Quant Engineering  
 *Aug 2019 – May 2021*
 
 - Led MarketAxess's first pilot Agile team, whose results drove firm-wide adoption of the methodology.
 - Launched **TRACE Context REST API** — MarketAxess's first AWS-native commercial product.
-- Founded the firm’s first cloud-native product organization, providing the execution blueprint that accelerated enterprise-wide AWS adoption, data lake strategy, and API-first platform standards.
+- Founded the firm's first cloud-native product organization, establishing the standards and patterns that drove enterprise-wide adoption of AWS, data lakes, and API-first architecture.
 
 **Business Analyst** — Data Science Research  
 *Jul 2017 – Jul 2019*
@@ -64,7 +63,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 - Product execution lead for **Tradeweb Direct** retail fixed income ATS and enterprise advisory platforms.
 - Delivered the redesign of **[Portfolio Solutions](https://cdn.tradeweb.com/sites/retail-portfolio-solutions/index.html)** from concept through commercial launch—an enterprise municipal bond portfolio management, analytics, trade-idea generation, and client reporting platform adopted across institutional advisory firms.
 - Architected and shipped a compliance platform for the Department of Labor Fiduciary Rule, coordinating delivery across legal, compliance, engineering, and client advisory organizations under active regulatory scrutiny.
-- Served as primary product owner and UX design authority for a 10+ person agile delivery team operating under tight client and regulatory dependencies.
+- Served as primary product owner for a 10+ person agile delivery team operating under tight client and regulatory dependencies.
 
 ---
 
@@ -74,8 +73,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 
 - Product founder and end-to-end owner of **[Vantage](https://vantage.interactivedata.com/)**, an award-winning web platform providing transparency into 2.8M+ daily evaluated fixed income prices for 5,000+ institutions.
 - Designed and shipped industry-first analytical visualization systems, including Box Plot Market Data Graph, Price Validation Workflow, and FINRA Structured Trading Aggregate Reports (precursor to TRACE Structured Data Feed).
-- Vantage won “Best Information Display” (2013 and 2014, *Systems in the City*).
-- Personally nominated for the 2012 Rising Star of the Mutual Fund Industry award.
+- Won “Best Information Display” (2013 and 2014, *Systems in the City*).
 
 ---
 
@@ -90,10 +88,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 ### Earlier Experience
 
 **Proprietary Equity Trader — [Trillium Trading, LLC](https://www.trlm.com/)** (2005–2007)  
-Licensed market maker (Series 7, 66, 55). Intraday momentum and technical trading strategies.
-
-**Product Management Associate — BuyandHold.com** (2000–2001)  
-Early fintech startup PM; launched real-time trading, IRAs, and portfolio tools.
+Licensed market maker. Intraday momentum and technical trading strategies.
 
 ---
 
@@ -109,7 +104,7 @@ Early fintech startup PM; launched real-time trading, IRAs, and portfolio tools.
 - **AI-powered workflows:** Spec authoring and code generation, data analysis and visualization, task automation and pipeline orchestration
 - **Languages:** Python, Rust, JavaScript, TypeScript, SQL
 - **Platforms & infrastructure:** AWS, APIs, data lakes, distributed systems
-- **Product & delivery:** Jira, Scrum, Kanban, SAFe
+- **Product & delivery:** Scrum, Kanban, SAFe
 - **ML systems:** Predictive modeling, real-time inference pipelines
 
 ---
