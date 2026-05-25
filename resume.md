@@ -31,7 +31,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 - More than doubled the data business from **$25MM** to **$55MM+** through AI/ML data products.
 - Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing **over a third of total data revenues**.
 - Established the Global Fixed Income Calculations team, closing the quality and coverage gap from **95%** to **99.9%** for critical market segments — and surpassing targets in newer markets.
-- AI-assisted development: replaced a basic React interface with a modern web platform for calculation tooling — featuring saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data for investigation. Slashed busy work and targeting a customer version to compete with Bloomberg's YAS screen.
+- AI-assisted development: replaced a basic React interface with a modern web platform for calculation tooling — featuring saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data for investigation. Collapsed multiple workstreams into one, and are now targeting a customer version to compete with Bloomberg's YAS screen.
 - AI-assisted development: built a CLI tool for mass Jira creation via CSV/YAML and Atlassian APIs — reducing PI Planning entry from hours to seconds. Built as a personal tool, then expanded company-wide with reusable templates. Planning to open source.
 
 **Product Owner / Scrum Master** — Quant Engineering  
@@ -76,7 +76,7 @@ Licensed market maker specializing in intraday momentum and technical trading st
 
 **AI agent engineering:** Multi-agent orchestration, code generation and review, automated testing  
 
-**AI-powered workflows:** Spec authoring and context generation and curation, rapid application design and prototyping, task and deployment pipeline automation  
+**AI-powered workflows:** Spec authoring, context generation and curation, rapid application design and prototyping, task and deployment pipeline automation  
 
 **Languages:** Python, Rust, TypeScript, SQL, Ruby  
 
