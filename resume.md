@@ -83,6 +83,6 @@ Licensed market maker specializing in intraday momentum and technical trading st
 **AI agent engineering:** Prompt engineering, agent workflow design, multi-agent orchestration, code generation and review, automated testing  
 **AI-powered workflows:** Spec authoring and code generation, data analysis and visualization, task automation and pipeline orchestration  
 **Languages:** Python, Rust, JavaScript, TypeScript, SQL  
-**Platforms & infrastructure:** AWS, APIs, data lakes, distributed systems  
+**Platforms & infrastructure:** AWS, APIs, streaming data, distributed systems  
 **Product & delivery:** Scrum, Kanban, SAFe  
 **ML systems:** Predictive modeling, real-time inference pipelines
