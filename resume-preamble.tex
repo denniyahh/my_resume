@@ -1,0 +1,13 @@
+\definecolor{accent}{HTML}{555555}
+\addtokomafont{section}{\color{accent}\large}
+\addtokomafont{subsection}{\color{accent}\normalsize}
+\let\oldsection\section
+\renewcommand{\section}[1]{\oldsection{#1}\vspace{-0.5em}\par\noindent\textcolor{accent!40}{\rule{\textwidth}{0.3pt}}\vspace{0.3em}}
+% Tighter list and paragraph spacing for compact resume layout
+\usepackage{paralist}
+\setlength{\parskip}{0.4\baselineskip}
+\setlength{\parsep}{0pt}
+\setlength{\itemsep}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}
+

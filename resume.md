@@ -1,8 +1,8 @@
 ---
 title: "Dennis Kim — AI-enabled Product Builder &amp; Development Team Lead"
 author: "Dennis Kim"
-geometry: margin=1in
-fontsize: 11pt
+geometry: "left=0.7in,right=0.7in,top=0.5in,bottom=0.5in"
+fontsize: 10pt
 mainfont: Source Sans 3
 monofont: Source Code Pro
 linkcolor: darkgray
@@ -11,12 +11,11 @@ disable-header-and-footer: true
 # Dennis Kim
 **AI-enabled Product Builder &amp; Development Team Lead**
 
-Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855  
-[LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh) · [Blog](https://dennis.kim)
+Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855 · [LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh) · [Blog](https://dennis.kim)
 
 ## Executive Profile
 
-Product builder and team lead with 15+ years shipping data platforms, trading infrastructure, and AI/ML-powered financial systems into regulated production. Combines deep domain expertise in fixed income markets with modern AI agent workflows — accelerating spec authoring, code generation, data analysis, and task automation across product and engineering teams. Track record of turning complex products into revenue: grew data business from $25MM to $55MM+, scaled CP+ to the firm's largest data product, and closed critical quality gaps from 95% to 99.9%.
+Product builder and team lead with 15+ years shipping data platforms, trading infrastructure, and AI/ML-powered financial systems into regulated production. Combines deep domain expertise in fixed income markets with modern AI agent workflows — accelerating spec authoring, code generation, data analysis, and task automation across product and engineering teams. Track record of turning complex products into revenue: grew data business from **$25MM** to **$55MM+**, scaled CP+ to the firm's largest data product, and closed critical quality gaps from **95%** to **99.9%**.
 
 ## Core Expertise
 
@@ -29,10 +28,10 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 **Product Manager / Scrum Master** — Quant Engineering &amp; Fixed Income Calculations  
 *Jun 2021 – Present*
 
-- More than doubled the data business from $25MM to $55MM+ through AI/ML data product development and commercial expansion.
+- More than doubled the data business from **$25MM** to **$55MM+** through AI/ML data product development and commercial expansion.
 - Built, scaled, and operationalized two global product and engineering organizations responsible for AI/ML pricing and liquidity predictions, transaction cost analysis (TCA), and fixed income calculation systems—repeatedly taking products from concept through regulated production.
-- Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing over a third of total data revenues.
-- Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from 95% to 99.9% for critical market segments — and surpassing targets in newer markets. Replaced legacy rule engines with ISIN-level functional calculation libraries engineered for extensibility, auditability, and regulatory control.
+- Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing **over a third of total data revenues**.
+- Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from **95%** to **99.9%** for critical market segments — and surpassing targets in newer markets. Replaced legacy rule engines with ISIN-level functional calculation libraries engineered for extensibility, auditability, and regulatory control.
 - AI-assisted development: built a modern web platform replacing a basic React interface for internal calculation tooling — with saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data sources for failure investigation. Slashed team busy work and extended the platform toward an external customer version targeting Bloomberg's YAS screen.
 - AI-assisted development: built a CLI tool for automating mass Jira creation via CSV/YAML config and Atlassian REST + MCP APIs — reducing hours of manual entry during PI Planning to seconds. Built it for personal use first, then adapted it for company-wide use with reusable team-specific and firm-specific YAML templates. Planning to open source.
 
@@ -61,9 +60,9 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 **Product Management Business Analyst — Evaluated Pricing Platforms**  
 *Jan 2011 – Jan 2014*
 
-- Product founder and end-to-end owner of **[Vantage](https://vantage.interactivedata.com/)**, an award-winning web platform providing transparency into 2.8M+ daily evaluated fixed income prices for 5,000+ institutions.
+- Product founder and end-to-end owner of **[Vantage](https://vantage.interactivedata.com/)**, an award-winning web platform providing transparency into **2.8M+** daily evaluated fixed income prices for **5,000+** institutions.
 - Designed and shipped industry-first analytical visualization systems, including Box Plot Market Data Graph, Price Validation Workflow, and FINRA Structured Trading Aggregate Reports (precursor to TRACE Structured Data Feed).
-- Won “Best Information Display” (2013 and 2014, *Systems in the City*).
+- Won “Best Information Display” **(2013 and 2014**, *Systems in the City*).
 
 ### Thomson Reuters (now [LSEG Data and Analytics](https://www.lseg.com/en/data-analytics)) — New York, NY  
 **Market Data Analyst — Global Ticker Plant and Elektron Platform Migration**  
@@ -82,9 +81,9 @@ Licensed market maker. Intraday momentum and technical trading strategies.
 
 ## Technical Skills
 
-- **AI agent engineering:** Prompt engineering, agent workflow design, multi-agent orchestration, code generation and review, automated testing
-- **AI-powered workflows:** Spec authoring and code generation, data analysis and visualization, task automation and pipeline orchestration
-- **Languages:** Python, Rust, JavaScript, TypeScript, SQL
-- **Platforms & infrastructure:** AWS, APIs, data lakes, distributed systems
-- **Product & delivery:** Scrum, Kanban, SAFe
-- **ML systems:** Predictive modeling, real-time inference pipelines
+**AI agent engineering:** Prompt engineering, agent workflow design, multi-agent orchestration, code generation and review, automated testing  
+**AI-powered workflows:** Spec authoring and code generation, data analysis and visualization, task automation and pipeline orchestration  
+**Languages:** Python, Rust, JavaScript, TypeScript, SQL  
+**Platforms & infrastructure:** AWS, APIs, data lakes, distributed systems  
+**Product & delivery:** Scrum, Kanban, SAFe  
+**ML systems:** Predictive modeling, real-time inference pipelines
