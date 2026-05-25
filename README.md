@@ -5,6 +5,8 @@
 
 Programmatic resume source in Markdown, built to PDF/DOCX/HTML via [Pandoc](https://pandoc.org/) with the [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) LaTeX template.
 
+**2 pages** · Source Sans 3 · Source Code Pro · Clean, modern aesthetic with accent bars under section headings.
+
 ## Quick Start
 
 ```bash
@@ -21,13 +23,16 @@ ls dist/            # resume.pdf  resume.docx  resume.html
 |---|---|---|
 | `pandoc` | ✅ | Document conversion |
 | `lualatex` / `xelatex` / `tectonic` | ✅ | PDF engine (auto-detected) |
-| [Inter font](https://rsms.me/inter/) | Recommended | Primary font for PDF output |
-| `Eisvogel` template | Recommended | Installed via the bundled `Eisvogel-3.3.0/` dir |
+| [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3) | ✅ | Primary font for PDF output |
+| [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) | ✅ | Monospace font for code |
+| `Eisvogel` template | ✅ | LaTeX template for PDF layout |
 
 Install on Fedora / RHEL:
 
 ```bash
 sudo dnf install pandoc texlive-scheme-medium texlive-luatex
+# Install fonts:
+sudo dnf install adobe-source-sans-pro-fonts adobe-source-code-pro-fonts
 ```
 
 ### Advanced Usage
@@ -67,6 +72,7 @@ By default (`ATS_SAFE=1`), the PDF is built from a normalized copy where typogra
 .
 ├── resume.md                 # Source of truth — Markdown + YAML frontmatter
 ├── build_resume.sh           # Build script (Pandoc pipeline)
+├── resume-preamble.tex       # LaTeX header tweaks (accent bars, spacing)
 ├── templates/
 │   └── eisvogel.latex        # Eisvogel Pandoc template
 ├── archive/
@@ -79,19 +85,40 @@ By default (`ATS_SAFE=1`), the PDF is built from a normalized copy where typogra
 
 ## Editing
 
-Edit `resume.md` and rebuild. The YAML frontmatter controls metadata:
+Edit `resume.md` and rebuild. The YAML frontmatter controls metadata and layout:
 
 ```yaml
 ---
-title: "Dennis Kim — Resume"
+title: "Dennis Kim — AI-enabled Product Builder & Development Team Lead"
 author: "Dennis Kim"
-geometry: margin=1in
-fontsize: 11pt
-mainfont: Inter
-monofont: Liberation Mono
-linkcolor: blue
+geometry: "left=0.7in,right=0.7in,top=0.5in,bottom=0.5in"
+fontsize: 10pt
+mainfont: Source Sans 3
+monofont: Source Code Pro
+linkcolor: darkgray
+disable-header-and-footer: true
 ---
 ```
+
+For visual styling (accent bars under section headings, compact spacing), edit `resume-preamble.tex`.
+
+## Technical Details
+
+- **Font**: Source Sans 3 at 10pt for body, Source Code Pro for monospace
+- **Layout**: 0.7in side margins, 0.5in top/bottom — optimized for 2-page fit
+- **Headings**: Dark gray accent color with thin rule underneath each section heading
+- **Links**: Dark gray (not blue) for a more sophisticated look
+- **Header/footer**: Disabled for clean pages
+- **PDF engine**: LuaLaTeX (auto-detected, falls back to XeLaTeX or Tectonic)
+- **Template**: Eisvogel 3.3.0 with custom preamble via `--include-in-header`
+
+## Key Content Decisions
+
+- **Title**: "AI-enabled Product Builder & Development Team Lead" — distinctively positions as a builder who uses AI, not a traditional PM
+- **MarketAxess**: Shown as career progression (BA → PO → PM) with dates, not a single role
+- **AI bullets**: Two concrete AI-assisted development examples (web platform + CLI tool) to back up the "AI-enabled" claim
+- **C-suite cuts**: Removed tactical/weak bullets (Tradability, multi-vendor integrations, production accountability, "Jira program lead", Rising Star nomination, BuyandHold.com, license numbers)
+- **Page count**: Aggressively trimmed to fit 2 pages (10pt, tight margins, compact spacing)
 
 ## License
 
