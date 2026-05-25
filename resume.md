@@ -29,11 +29,10 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 *Jun 2021 – Present*
 
 - More than doubled the data business from **$25MM** to **$55MM+** through AI/ML data product development and commercial expansion.
-- Built, scaled, and operationalized two global product and engineering organizations responsible for AI/ML pricing and liquidity predictions, transaction cost analysis (TCA), and fixed income calculation systems—repeatedly taking products from concept through regulated production.
 - Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing **over a third of total data revenues**.
-- Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from **95%** to **99.9%** for critical market segments — and surpassing targets in newer markets. Replaced legacy rule engines with ISIN-level functional calculation libraries engineered for extensibility, auditability, and regulatory control.
-- AI-assisted development: built a modern web platform replacing a basic React interface for internal calculation tooling — with saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data sources for failure investigation. Slashed team busy work and extended the platform toward an external customer version targeting Bloomberg's YAS screen.
-- AI-assisted development: built a CLI tool for automating mass Jira creation via CSV/YAML config and Atlassian REST + MCP APIs — reducing hours of manual entry during PI Planning to seconds. Built it for personal use first, then adapted it for company-wide use with reusable team-specific and firm-specific YAML templates. Planning to open source.
+- Established the Fixed Income Calculations Analysis and Development Team, closing the quality and coverage gap from **95%** to **99.9%** for critical market segments — and surpassing targets in newer markets.
+- AI-assisted development: replaced a basic React interface with a modern web platform for calculation tooling — featuring saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data sources for failure investigation. Slashed busy work and targeting an external version to compete with Bloomberg's YAS screen.
+- AI-assisted development: built a CLI tool for mass Jira creation via CSV/YAML and Atlassian APIs — reducing PI Planning entry from hours to seconds. Built as a personal tool, then expanded company-wide with reusable templates. Planning to open source.
 
 **Product Owner / Scrum Master** — Quant Engineering  
 *Aug 2019 – May 2021*
