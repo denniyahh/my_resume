@@ -120,6 +120,3 @@ For visual styling (accent bars under section headings, compact spacing), edit `
 - **C-suite cuts**: Removed tactical/weak bullets (Tradability, multi-vendor integrations, production accountability, "Jira program lead", Rising Star nomination, BuyandHold.com, license numbers)
 - **Page count**: Aggressively trimmed to fit 2 pages (10pt, tight margins, compact spacing)
 
-## License
-
-The content of this resume is personal information. The build scripts and tooling are available as reference under MIT (if applicable).
