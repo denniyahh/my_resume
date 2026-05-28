@@ -1,11 +1,11 @@
 # Dennis Kim — Resume
 
 [![Built with Pandoc](https://img.shields.io/badge/built%20with-pandoc-blueviolet)](https://pandoc.org/)
-[![LaTeX](https://img.shields.io/badge/engine-lualatex%20|%20xelatex%20|%20tectonic-green)](https://www.latex-project.org/)
+[![ATS Safe Resume](https://img.shields.io/badge/template-ats_safe_resume-555555)](https://github.com/denniyahh/ats_safe_resume)
 
-Programmatic resume source in Markdown, built to PDF/DOCX/HTML via [Pandoc](https://pandoc.org/) with the [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) LaTeX template.
+Programmatic resume source in Markdown, built via the [ATS Safe Resume](https://github.com/denniyahh/ats_safe_resume) template pipeline — Markdown + Pandoc + Eisvogel, with ATS-safe typography normalization, 5 color themes, and Docker support.
 
-**2 pages** · Source Sans 3 · Source Code Pro · Clean, modern aesthetic with accent bars under section headings.
+**2 pages** · Source Sans 3 · Dark theme · Accent bars under headings
 
 ## Quick Start
 

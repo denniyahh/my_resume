@@ -5,6 +5,8 @@ geometry: "left=0.7in,right=0.7in,top=0.5in,bottom=0.5in"
 fontsize: 10pt
 mainfont: Source Sans 3
 monofont: Source Code Pro
+theme: dark
+page_mode: two
 linkcolor: darkgray
 disable-header-and-footer: true
 ---
