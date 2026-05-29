@@ -1,5 +1,5 @@
 ---
-title: "Dennis Kim — AI-enabled Product Builder &amp; Development Team Lead"
+title: "Dennis Kim — AI-enabled Product Builder & Development Team Lead"
 author: "Dennis Kim"
 geometry: "left=0.7in,right=0.7in,top=0.5in,bottom=0.5in"
 fontsize: 10pt
@@ -11,7 +11,7 @@ linkcolor: darkgray
 disable-header-and-footer: true
 ---
 # Dennis Kim
-**AI-enabled Product Builder &amp; Development Team Lead**
+**AI-enabled Product Builder & Development Team Lead**
 
 Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855 · [LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh) · [Blog](https://dennis.kim)
 
@@ -27,7 +27,7 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 
 ### [MarketAxess](https://www.marketaxess.com/) — New York, NY  
 
-**Product Manager / Scrum Master** — Quant Engineering &amp; Fixed Income Calculations  
+**Product Manager / Scrum Master** — Quant Engineering & Fixed Income Calculations  
 *Jun 2021 – Present*
 
 - More than doubled the data business from **$25MM** to **$55MM+** through AI/ML data products.
