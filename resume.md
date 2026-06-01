@@ -13,7 +13,7 @@ disable-header-and-footer: true
 # Dennis Kim
 **AI-enabled Product Builder & Development Team Lead**
 
-Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855 · [LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh) · [Blog](https://dennis.kim)
+Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855 · [LinkedIn](https://linkedin.com/in/denniskimai) · [Github](https://github.com/denniyahh)
 
 ## Executive Profile
 
