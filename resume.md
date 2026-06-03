@@ -17,11 +17,11 @@ Bayside, NY · [me@dennis.kim](mailto:me@dennis.kim) · 929-919-6855 · [LinkedI
 
 ## Executive Profile
 
-Product builder and team lead with 15+ years shipping data platforms, trading infrastructure, and AI/ML-powered financial systems into regulated production. Combines deep domain expertise in fixed income markets with modern AI agent workflows — accelerating spec authoring, code generation, data analysis, and task automation. Grew data business from **$25MM** to **$55MM+**, scaled CP+ to the firm's largest data product, and closed critical quality gaps from **95%** to **99.9%**.
+Product builder and team lead with 15+ years shipping data platforms, trading infrastructure, and AI/ML-powered financial systems into regulated production. Combines deep domain expertise in fixed income markets with modern AI agent workflows — accelerating spec authoring, code generation, data analysis, and task automation. Grew data business from **$25MM** to **$55MM+**, scaled CP+ to the firm's largest data product, and closed critical quality gaps from **95%** to **99.9%** in mission-critical low-latency calculation services.
 
 ## Core Expertise
 
-AI-agent-assisted product development · Spec-to-code workflows · Data platform productization · Regulated production systems
+Hands-on technical product management · Spec-to-code AI-agent-assisted workflows · Data platform productization · Regulated production systems
 
 ## Professional Experience
 
@@ -32,42 +32,41 @@ AI-agent-assisted product development · Spec-to-code workflows · Data platform
 
 - More than doubled the data business from **$25MM** to **$55MM+** through AI/ML data products.
 - Grew **[CP+](https://www.marketaxess.com/price/cp-plus)**, the industry's leading real-time AI/ML fixed income pricing engine, from zero to MarketAxess's largest data product — representing **over a third of total data revenues**.
-- Established the Global Fixed Income Calculations team, closing the quality and coverage gap from **95%** to **99.9%** for critical market segments — and surpassing targets in newer markets.
-- AI-assisted development: replaced a basic React interface with a modern web platform for calculation tooling — featuring saved calculation requests, customizable widgets, side-by-side comparison, and a Triage page centralizing disparate data for investigation. Collapsed multiple workstreams into one, and are now targeting a customer version to compete with Bloomberg's YAS screen.
-- AI-assisted development: built a CLI tool for mass Jira creation via CSV/YAML and Atlassian APIs — reducing PI Planning entry from hours to seconds. Built as a personal tool, then expanded company-wide with reusable templates. Planning to open source.
+- Established the Global Fixed Income Calculations analysis and development team which took over a critical API serving hundreds of millions of requests per day, closing the quality and coverage gap from **95%** to **99.9%** for our key product segments.
+- Vibe-coded a modern web platform to serve as a front-end to the calculations service, featuring many tools and conveniences such as bulk requests and uploads, side-by-side calc comparison, user data and customization, and centralized error logging and dashboard. Targeting a customer-facing version to compete with Bloomberg's YAS screen.
+- Vibe-coded a CLI tool for mass Jira task creation utilizing Atlassian's MCP server, reducing PI Planning project setup from hours to **seconds**. Scaled the utility company-wide with customizable org and team-level configurations, as well as open-sourced the tool.
 
 **Product Owner / Scrum Master** — Quant Engineering  
 *Aug 2019 – May 2021*
 
-- Led MarketAxess's first pilot Agile team, whose results drove firm-wide adoption of the methodology.
-- Launched **FINRA TRACE + MarketAxess Platform Context REST API** — MarketAxess's first AWS-native commercial product.
-- Founded the firm's first cloud-native product organization, driving enterprise-wide adoption of AWS, data lake formation and streaming data architectures.
+- Led MarketAxess's first pilot Agile product development team, whose results drove firm-wide adoption of the methodology.
+- Launched the FINRA TRACE + MarketAxess Platform Context REST API — MarketAxess's first AWS-native commercial product, supporting **10M+** daily queries.
+- Founded the firm's first cloud-native product organization, driving enterprise-wide adoption of AWS, the formation of the first corporate data lake, and the migration of CP+ to modern Kafka-based streaming data architectures.
 
 **Business Analyst** — Data Science Research  
 *Jul 2017 – Jul 2019*
 
-- Led the transition of CP+ from research project to product launch.
+- Led the transition of CP+ from a research project to the industry's leading predictive corporate bond pricing product.
 
 ### [Tradeweb Markets](https://www.tradeweb.com/) — New York, NY  
-**Vice President, Business Analysis / Product Lead — Retail and Institutional Trading Platforms**  
+**Vice President, Business Analysis / Product Lead — Retail and Institutional Municipal Bond Trading Platforms**  
 *Mar 2015 – Jun 2017*
 
-- Product execution lead for **Tradeweb Direct** retail fixed income ATS and enterprise advisory platforms.
-- Delivered the redesign of **[Portfolio Solutions](https://cdn.tradeweb.com/sites/retail-portfolio-solutions/index.html)** from concept through commercial launch — a municipal bond portfolio management and analytics platform adopted across institutional advisory firms.
+- Led product execution for the Tradeweb Direct municpal bond trading SAAS platform for large institutional wealth managers such as UBS, Stifel, RBC Dain, Raymond James, etc..
+- Oversaw the design of the next generation [Portfolio Solutions](https://cdn.tradeweb.com/sites/retail-portfolio-solutions/index.html) wealth management platform from concept through initial commercial launch.
 
 ### Interactive Data (now [ICE Data Services](https://www.ice.com/fixed-income-data-services)) — New York, NY  
-**Product Management Business Analyst — Evaluated Pricing Division**  
+**Product Management Business Analyst — Fixed Income Evaluated Pricing Division**  
 *Jan 2011 – Jan 2014*
 
-- Product founder of **[Vantage](https://vantage.interactivedata.com/)**, an award-winning web platform serving **2.8M+** daily evaluated fixed income prices to **5,000+** institutions.
-- Designed and shipped industry-first analytical visualization systems, including Box Plot Market Data Graph, Price Validation Workflow, and FINRA Structured Trading Aggregate Reports.
-- Won **"Best Information Display"** (2013 and 2014, *Systems in the City*).
+- Served as the product founder for [Vantage](https://vantage.interactivedata.com/), an award-winning web platform serving **2.8M+** daily evaluated fixed income prices to **5,000+** institutions.
+- Designed and shipped **3** industry-first analytical visualization systems, including Box Plot Market Data Graph, Price Validation Workflow, and FINRA Structured Products Trading Aggregate Reports.
 
 ### Thomson Reuters (now [LSEG Data and Analytics](https://www.lseg.com/en/data-analytics)) — New York, NY  
-**Market Data Analyst — Global Ticker Plant and Elektron Platform Migration**  
+**Market Data Analyst — Global Ticker Plant Migration to Elektron Market Data System**  
 *Mar 2008 – Dec 2010*
 
-- Lead analyst on the global migration from legacy Thomson ticker plants to Reuters Elektron — defining business rules for institutional feeds (NYSE Euronext, LSE Millennium) and coordinating delivery across US, London, and Bangalore teams under strict uptime and data quality constraints.
+- Served as the lead analyst on the global migration from legacy Thomson ticker plants to Reuters Elektron, defining business rules for the migration of **30+** institutional market data feeds and coordinating delivery across global development teams in New York, London, and Bangalore.
 
 ### Earlier Experience
 
@@ -76,17 +75,17 @@ Licensed market maker specializing in intraday momentum and technical trading st
 
 ## Technical Skills
 
-**AI agent engineering:** Multi-agent orchestration, code generation and review, automated testing  
+**AI Agent Engineering:** Multi-agent orchestration, spec-based code generation and review, agentic testing  
 
-**AI-powered workflows:** Spec authoring, context generation and curation, rapid application design and prototyping, task and deployment pipeline automation  
+**AI-Powered Workflows:** Spec authoring, context generation and curation, rapid application design and prototyping, task and deployment pipeline automation  
 
-**Languages:** Python, Rust, TypeScript, SQL, Ruby  
+**Languages:** Python, Rust, TypeScript, Ruby, SQL  
 
-**Platforms & infrastructure:** AWS, APIs, streaming data, distributed systems  
+**Platforms & Infrastructure:** AWS, APIs, streaming and distributed data systems and services  
 
-**Product & delivery:** Scrum, Kanban, SAFe  
+**Product & Delivery:** Scrum, Kanban, SAFe  
 
-**ML systems:** Predictive modeling, real-time inference pipelines
+**ML Systems:** Predictive modeling, real-time inference pipelines
 
 ## Education
 
